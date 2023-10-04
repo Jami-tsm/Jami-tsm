@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jami-tsm
 - 👀 I’m interested in Cyber Security and Software Engineering
-- 🌱 I’m currently learning Java and furthering my python skills
+- 🌱 I’m currently furthering my Python skills, and next semester I will begin learning JavaScript
 
 
 <!---
