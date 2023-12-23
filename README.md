@@ -1,6 +1,6 @@
 Hello, my name is Jameson Baker, I am a Rochester Institute of Technology student of Computer Science.
 
-My interests lie in the feilds of cybersecurity, and machine learning! I am currently studying python and java.
+My interests lie in the fields of cybersecurity, and machine learning! I am currently studying python and java.
 
 Tools Currently in use:
   - Python
