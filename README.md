@@ -8,6 +8,8 @@ Tools Currently in use:
   - Github
   - IntelliJ
   - Java
+  - VsCode
+  - HTML + CSS
 
 Other Info:
   - Pronouns (He/They)
