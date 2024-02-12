@@ -1,6 +1,6 @@
 Hello, my name is Jameson Baker, I am a Rochester Institute of Technology student of Computer Science.
 
-My interests lie in the fields of cybersecurity, and machine learning! I am currently studying python and java.
+My interests lie in the fields of cybersecurity and machine learning. I am currently studying Python and Java.
 
 Tools Currently in use:
   - Python
@@ -11,7 +11,7 @@ Tools Currently in use:
 
 Other Info:
   - Pronouns (He/They)
-  - Im currently learning Java
+  - I'm currently learning Java
   - Contact me @Jami.tsm on all platforms
   - linkden: www.linkedin.com/in/jameson-baker-944647217
 
