@@ -15,7 +15,7 @@ Other Info:
   - Pronouns (He/They)
   - I'm currently learning Java
   - Contact me @Jami.tsm on all platforms
-  - linkden: www.linkedin.com/in/jameson-baker-944647217
+  - linkeden: www.linkedin.com/in/jameson-baker-944647217
 
 <!---
 Jami-tsm/Jami-tsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
