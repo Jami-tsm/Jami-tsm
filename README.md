@@ -27,7 +27,7 @@ I am Jameson Baker, a dedicated student of Computer Science at Rochester Institu
 
 ## Additional Information
 
-- **Pronouns**: He/They
+- **Pronouns**: He/Him
 - Currently expanding proficiency in Java
 - Connect with me on all platforms [@Jami.tsm](#)
 - LinkedIn: [Jameson Baker](https://www.linkedin.com/in/jameson-baker-944647217)
