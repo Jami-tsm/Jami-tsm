@@ -28,9 +28,9 @@ I am Jameson Baker, a dedicated student of Computer Science at Rochester Institu
 ## Additional Information
 
 - **Pronouns**: He/Him
-- Currently expanding proficiency in Java
+- Currently learning C
 - Connect with me on all platforms [@Jami.tsm](#)
-- LinkedIn: [Jameson Baker](https://www.linkedin.com/in/jameson-baker-944647217)
+- Linkedin: [Jameson Baker](https://www.linkedin.com/in/jameson-baker-944647217)
 
 <!---
 Jami-tsm/Jami-tsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
