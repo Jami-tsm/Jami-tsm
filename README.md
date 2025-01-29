@@ -2,12 +2,13 @@
 
 ## About Me
 
-I am Jameson Baker, a dedicated student of Computer Science at Rochester Institute of Technology. With a keen interest in cybersecurity and machine learning, I am committed to expanding my knowledge and expertise in these cutting-edge fields.
+As a junior at RIT pursuing a Bachelor’s in Computer Science, I am passionate about software development and problem-solving. Currently, I’m working at GTRI in the Open Source Development Branch, contributing to radar and electronic warfare (EW) products. My experience spans C++, Python, and Java, with a strong focus on building efficient and impactful solutions. I’m always eager to learn and take on new challenges in the field of software engineering.
+
 
 ## Interests
 
-- Cybersecurity
-- Machine Learning
+- Open Source Development
+- Applied Embedded Systems
 
 ## Skills
 
@@ -16,21 +17,25 @@ I am Jameson Baker, a dedicated student of Computer Science at Rochester Institu
 - Python
 - Java
 - C++
+- C
 
 ### Tools & Technologies
 
 - PyCharm
-- GitHub
+- Git
 - IntelliJ IDEA
 - Visual Studio Code
 - HTML + CSS
+- AWS
+- 
 
 ## Additional Information
 
 - **Pronouns**: He/Him
-- Currently learning C
+- Currently working at GTRI
 - Connect with me on all platforms [@Jami.tsm](#)
-- Linkedin: [Jameson Baker](https://www.linkedin.com/in/jameson-baker-944647217)
+- Linkedin: [Jameson Baker](https://www.linkedin.com/in/jameson-Baker-944647217)
+- Website: [jamesonbaker.com](jamesonbaker.com)
 
 <!---
 Jami-tsm/Jami-tsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
