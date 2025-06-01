@@ -2,7 +2,7 @@
 
 ## About Me
 
-As a junior at RIT pursuing a Bachelor’s in Computer Science, I am passionate about software development and problem-solving. Currently, I’m working at GTRI in the Open Source Development Branch, contributing to radar and electronic warfare (EW) products. My experience spans C++, Python, and Java, with a strong focus on building efficient and impactful solutions. I’m always eager to learn and take on new challenges in the field of software engineering.
+As a junior at RIT pursuing a Bachelor’s in Software Engineering, I am passionate about software development and problem-solving. Currently, This semester I worked at GTRI in the Open Source Development Branch, contributing to radar and electronic warfare (EW) products. My experience spans C++, Python, and Java, with a strong focus on building efficient and impactful solutions. I’m always eager to learn and take on new challenges in the field of software engineering.
 
 
 ## Interests
@@ -27,7 +27,7 @@ As a junior at RIT pursuing a Bachelor’s in Computer Science, I am passionate 
 - Visual Studio Code
 - HTML + CSS
 - AWS
-- 
+  
 
 ## Additional Information
 
