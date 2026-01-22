@@ -1,11 +1,11 @@
 # Hi, I'm Jameson Baker 👋
 
-[cite_start]I am a **Software Engineering student at Rochester Institute of Technology** [cite: 4] [cite_start]with a strong interest in **Embedded Systems, Full-Stack Development, and Data Science**. [cite: 13, 21, 26] [cite_start]I enjoy building efficient solutions, whether it's low-level hardware communication or high-level web applications. [cite: 15, 23]
+I am a **Software Engineering student at Rochester Institute of Technology** with a strong interest in **Embedded Systems, Full-Stack Development, and Data Science**. I enjoy building efficient solutions, whether it's low-level hardware communication or high-level web applications.
 
 ### 🚀 Currently...
-* [cite_start]**Interning** at **GTRI (Georgia Tech Research Institute)** [cite: 13][cite_start], developing testing software for radar devices [cite: 15] [cite_start]and contributing to SOSA-aligned ACT software. [cite: 16]
-* [cite_start]**Serving** as Vice President of Phi Delta Theta (NY Eta) [cite: 34] [cite_start]and Chair for Student Government at RIT. 
-* [cite_start]**Studying** Web Engineering and Applied Statistics at RIT. [cite: 6]
+* **Interning** at **GTRI (Georgia Tech Research Institute)**, developing testing software for radar devices and contributing to SOSA-aligned ACT software. 
+* **Serving** as Vice President of Phi Delta Theta (NY Eta) and Chair for Student Government at RIT. 
+* **Studying** Web Engineering and Applied Statistics at RIT.
 
 ---
 
@@ -35,13 +35,13 @@
 ### 📂 Featured Projects
 
 #### 🏉 [Rugby Prediction Model](https://github.com/Jami-tsm/Intl-Rugby-Data)
-* [cite_start]Developed a **Machine Learning model** in Python to predict international rugby match outcomes. [cite: 26]
-* [cite_start]Engineered a robust dataset using extensive data cleaning and feature extraction on raw statistics. [cite: 27]
-* [cite_start]Implemented a full data science pipeline using Pandas and Scikit-learn. [cite: 28]
+* Developed a **Machine Learning model** in Python to predict international rugby match outcomes. 
+* Engineered a robust dataset using extensive data cleaning and feature extraction on raw statistics. 
+* Implemented a full data science pipeline using Pandas and Scikit-learn. 
 
 #### 🌐 [Phi Delta Theta NY Eta Website](https://phideltnyh.com)
-* [cite_start]Engineered and deployed a professional site using **vanilla JavaScript, HTML5, and CSS3**. [cite: 21]
-* [cite_start]Optimized performance through asset management and image compression to improve load times. [cite: 23]
+* Engineered and deployed a professional site using **vanilla JavaScript, HTML5, and CSS3**.
+* Optimized performance through asset management and image compression to improve load times. 
 
 ---
 
@@ -52,6 +52,6 @@
 ---
 
 ### 📫 Connect with me:
-* [cite_start]**LinkedIn:** [linkedin.com/in/baker-jameson](https://www.linkedin.com/in/baker-jameson) [cite: 3]
-* [cite_start]**Email:** jamesonbaker4256@gmail.com [cite: 3]
-* [cite_start]**Location:** Rochester, NY [cite: 3]
+* **LinkedIn:** [linkedin.com/in/baker-jameson](https://www.linkedin.com/in/baker-jameson)
+* **Email:** jamesonbaker4256@gmail.com 
+* **Location:** Rochester, NY 
