@@ -3,9 +3,9 @@
 I am a **Software Engineering student at Rochester Institute of Technology** with a strong interest in **Embedded Systems, Full-Stack Development, and Data Science**. I enjoy building efficient solutions, whether it's low-level hardware communication or high-level web applications.
 
 ### 🚀 Currently...
-* **Interning** at **GTRI (Georgia Tech Research Institute)**, developing testing software for radar devices and contributing to SOSA-aligned ACT software. 
-* **Serving** as Vice President of Phi Delta Theta (NY Eta) and Chair for Student Government at RIT. 
-* **Studying** Web Engineering and Applied Statistics at RIT.
+* **Interned** at **GTRI (Georgia Tech Research Institute)**, developing testing software for radar devices and contributing to SOSA-aligned ACT software. 
+* **Serving** as Vice President of Phi Delta Theta (NY Eta) and Committee Chair for Student Government at RIT. 
+* **Studying** Software subsystems, Design Patterns, and Software team management and process.
 
 ---
 
